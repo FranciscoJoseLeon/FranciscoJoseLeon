@@ -1,42 +1,20 @@
+Aquí tienes el fichero **`README.md`** reorganizado, con la sección de ciberseguridad industrial ubicada al final:
+
+```markdown
 <div align="center">
 
 # 👋 Hi there, I'm Francisco José León
 
-### 🛡️ Industrial Robotics and Automation Engineer | IoT & Smart Home Software Developer
+### 🛡️ Industrial Cybersecurity (OT/IACS) & Automation Engineer | IoT & Smart Home Developer
 
 [![GitHub followers](https://img.shields.io/github/followers/FranciscoJoseLeon?label=Followers&style=for-the-badge&color=007ec6)](https://github.com/FranciscoJoseLeon)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20my%20work-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fjleon)
 
 <p align="center">
-  Passionate about home automation ecosystems, microcontrollers (ESP32/ESP8266), operational technology (OT) cybersecurity, and building scalable open-source integrations.
+  Passionate about operational technology (OT) cybersecurity, home automation ecosystems, microcontrollers (ESP32/ESP8266), and building scalable open-source integrations.
 </p>
 
 </div>
-
----
-
-## 🛡️ Industrial Cybersecurity & Certifications (ISA / IEC 62443)
-
-<table>
-  <tr>
-    <td width="160" align="center" valign="middle">
-      <img src="isa-62443-expert.png" width="135" alt="ISA/IEC 62443 Cybersecurity Expert Badge" />
-    </td>
-    <td valign="middle">
-      <h3>🔒 [Assessing the Cybersecurity of New or Existing IACS Systems]</h3>
-      <p><b>Issuing Organization:</b> <a href="https://www.isa.org/" target="_blank"><b>International Society of Automation (ISA)</b></a></p>
-      <p><b>Global Standard:</b> <code>ISA/IEC 62443</code> (Security for Industrial Automation and Control Systems - IACS / OT)</p>
-      <p><b>Specialized Program:</b> Official Course <b>IC33</b> · Module <i>IC33M01: Preparing for an Assessment</i></p>
-      <p><b>Core Competencies:</b></p>
-      <ul>
-        <li>Cybersecurity risk and criticality assessment for industrial control systems (IACS / SCADA / DCS).</li>
-        <li>Scope definition, architecture review, and network segmentation based on the <b>Zones & Conduits</b> model.</li>
-        <li>Critical industrial asset inventory and cyber vulnerability analysis.</li>
-        <li>Assessment preparation methodology and audit readiness aligned with IEC 62443 compliance.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -47,8 +25,8 @@
 * **[plugin-awtrixng](https://github.com/FranciscoJoseLeon/plugin-awtrixng)**: Comprehensive Jeedom plugin for smart LED pixel matrix displays (Awtrix Light, Awtrix 3, Ulanzi TC001, ESP8266/ESP32) featuring multi-screen management, custom app carousels, and priority notifications.
 
 ### 🌐 Platforms & Engineering Solutions
-* **SquadProtect**: Security management and team coordination platform for emergency response and incident tracking.
-* **SimpliSat**: Technical management and provisioning platform for telecommunications and satellite infrastructure.
+* **[SquadProtect](https://squadprotect.com/)**: Security management and team coordination platform for emergency response and incident tracking.
+* **[SimpliSat](https://simplisat-agro.web.app/)**: Technical management and provisioning platform for telecommunications and satellite infrastructure.
 
 ---
 
@@ -64,8 +42,21 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jeedom-99CC00?style=for-the-badge&logo=homeassistant&logoColor=white" />
-  <img src="https://img.shields.io/badge/IEC_62443-0A2540?style=for-the-badge&logo=shield&logoColor=white" />
 </p>
+
+---
+
+## 🛡️ Industrial Cybersecurity & Certifications (ISA / IEC 62443)
+
+### 🔒 [Assessing the Cybersecurity of New or Existing IACS Systems]
+* **Issuing Organization:** [International Society of Automation (ISA)](https://www.isa.org/)
+* **Global Standard:** <code>ISA/IEC 62443</code> (Security for Industrial Automation and Control Systems - IACS / OT)
+* **Specialized Program:** Official Course <b>IC33</b> · Module <i>IC33M01: Preparing for an Assessment</i>
+* **Core Competencies:**
+  * Cybersecurity risk and criticality assessment for industrial control systems (IACS / SCADA / DCS).
+  * Scope definition, architecture review, and network segmentation based on the <b>Zones & Conduits</b> model.
+  * Critical industrial asset inventory and cyber vulnerability analysis.
+  * Assessment preparation methodology and audit readiness aligned with IEC 62443 compliance.
 
 ---
 
