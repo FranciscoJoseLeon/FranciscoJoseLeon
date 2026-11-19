@@ -48,7 +48,6 @@
 ### 🔒 [Assessing the Cybersecurity of New or Existing IACS Systems]
 * **Issuing Organization:** [International Society of Automation (ISA)](https://www.isa.org/)
 * **Global Standard:** <code>ISA/IEC 62443</code> (Security for Industrial Automation and Control Systems - IACS / OT)
-* **Specialized Program:** Official Course <b>IC33</b> · Module <i>IC33M01: Preparing for an Assessment</i>
 * **Core Competencies:**
   * Cybersecurity risk and criticality assessment for industrial control systems (IACS / SCADA / DCS).
   * Scope definition, architecture review, and network segmentation based on the <b>Zones & Conduits</b> model.
