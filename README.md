@@ -1,7 +1,3 @@
-<!--
-**FranciscoJoseLeon/FranciscoJoseLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-```markdown
 <div align="center">
 
 # Hi there, I'm Francisco José León 👋
@@ -9,9 +5,6 @@
 ### In my free time, among other things, I enjoy developing software and plugins for **Home Automation (Jeedom)**, **Real-Time Mobile/Web Apps**, and **Connected Hardware** — building practical, reliable, and multilingual tools for the community.
 
 <p>
-  <a href="https://ko-fi.com/fjleon">
-    <img src="https://img.shields.io/badge/Ko--fi-Support_My_Work-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
   <a href="https://github.com/FranciscoJoseLeon?tab=followers">
     <img src="https://img.shields.io/github/followers/FranciscoJoseLeon?label=Followers&style=for-the-badge&color=0ea5e9" alt="Followers" />
   </a>
@@ -102,6 +95,5 @@ Modern web application focused on **AgriTech** and satellite-assisted field & cr
 ---
 
 <div align="center">
-  <sub>Thanks for visiting! Feel free to star ⭐ the repositories or support my work on <a href="https://ko-fi.com/fjleon">Ko-fi</a>.</sub>
+  <sub>Thanks for visiting! Feel free to star ⭐ the repositories or open an issue/PR if you'd like to collaborate.</sub>
 </div>
-```
