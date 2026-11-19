@@ -1,11 +1,8 @@
-Aquí tienes el fichero **`README.md`** reorganizado, con la sección de ciberseguridad industrial ubicada al final:
-
-```markdown
 <div align="center">
 
 # 👋 Hi there, I'm Francisco José León
 
-### 🛡️ Industrial Cybersecurity (OT/IACS) & Automation Engineer | IoT & Smart Home Developer
+### 🛡️ Industrial Automation & Robotics Engineer | IoT & Smart Home Software Developer
 
 [![GitHub followers](https://img.shields.io/github/followers/FranciscoJoseLeon?label=Followers&style=for-the-badge&color=007ec6)](https://github.com/FranciscoJoseLeon)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20my%20work-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fjleon)
