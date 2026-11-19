@@ -8,7 +8,7 @@
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20my%20work-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fjleon)
 
 <p align="center">
-  Passionate about Robotics and Automation and operational technology (OT) connectivity & cybersecurity, microcontrollers (ESP32/ESP8266), home automation ecosystems and scalable open-source integrations.
+  Passionate about Robotics and Automation, operational technology (OT) connectivity & cybersecurity, microcontrollers (ESP32/ESP8266), home automation ecosystems and scalable open-source integrations.
 </p>
 
 </div>
