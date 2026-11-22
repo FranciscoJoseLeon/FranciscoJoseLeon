@@ -18,7 +18,7 @@
 ## 🚀 Featured Projects & Open Source Plugins
 
 ### 🏠 Home Automation & Smart Home (Jeedom Ecosystem)
-* **[plugin-alexa_devices](https://github.com/FranciscoJoseLeon/plugin-alexa_devices)**: Advanced bidirectional integration for Amazon Alexa devices in Jeedom (Echo hardware, air quality monitors, environmental sensors, volume control, and real-time push event handling).
+* **[plugin-alexadevices](https://github.com/FranciscoJoseLeon/plugin-alexadevices)**: Advanced bidirectional integration for Amazon Alexa devices in Jeedom (Echo hardware, air quality monitors, environmental sensors, volume control, and real-time push event handling).
 * **[plugin-awtrixng](https://github.com/FranciscoJoseLeon/plugin-awtrixng)**: Comprehensive Jeedom plugin for smart LED pixel matrix displays (Awtrix Light, Awtrix 3, Ulanzi TC001, ESP8266/ESP32) featuring multi-screen management, custom app carousels, and priority notifications.
 
 ### 🌐 Platforms & Engineering Solutions
