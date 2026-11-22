@@ -8,7 +8,8 @@
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20my%20work-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fjleon)
 
 <p align="center">
-Passionate about robotics and automation, as well as related industrial technologies such as industrial measurement and perception sensors. I strongly advocate for automation as the key driver of continuous improvement through data-driven decisions—making Operational Technology (OT) connectivity and robust cybersecurity essential. In my free time, I also develop software for microcontrollers (ESP32/ESP8266), home automation ecosystems, and scalable open-source integrations.
+  Passionate about robotics and automation, as well as related industrial technologies such as industrial measurement and perception sensors.
+  I strongly advocate for automation as the key driver of continuous improvement through data-driven decisions—making Operational Technology (OT) connectivity and robust cybersecurity essential. In my free time, I also develop software for microcontrollers (ESP32/ESP8266), home automation ecosystems, and scalable open-source integrations.
 </p>
 
 </div>
